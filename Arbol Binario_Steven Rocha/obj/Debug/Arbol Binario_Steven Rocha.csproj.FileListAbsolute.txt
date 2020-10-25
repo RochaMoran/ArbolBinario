@@ -1,0 +1,10 @@
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\bin\Debug\Arbol Binario_Steven Rocha.exe.config
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\bin\Debug\Arbol Binario_Steven Rocha.exe
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\bin\Debug\Arbol Binario_Steven Rocha.pdb
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol Binario_Steven Rocha.csprojAssemblyReference.cache
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol_Binario_Steven_Rocha.Form1.resources
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol_Binario_Steven_Rocha.Properties.Resources.resources
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol Binario_Steven Rocha.csproj.GenerateResource.cache
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol Binario_Steven Rocha.csproj.CoreCompileInputs.cache
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol Binario_Steven Rocha.exe
+C:\Users\rocha\source\repos\Arbol Binario_Steven Rocha\Arbol Binario_Steven Rocha\obj\Debug\Arbol Binario_Steven Rocha.pdb
