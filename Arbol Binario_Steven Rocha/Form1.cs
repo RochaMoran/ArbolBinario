@@ -12,7 +12,7 @@ namespace Arbol_Binario_Steven_Rocha
 {
     public partial class Form1 : Form
     {
-        //Variables para trabajar. Manejar la cantidad de clientes y el indice
+        //Variables para trabajar.
         public int cantClientes { get; set; }
 
         int axu,
